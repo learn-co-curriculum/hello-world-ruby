@@ -1,4 +1,4 @@
-# Your First Ruby Program - Hello World!
+
 
 ## Overview
 

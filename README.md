@@ -1,5 +1,5 @@
 # Your First Ruby Program - Hello World!
-
+test
 ## Overview
 
 You're going to make a file that will print ["Hello World!"](http://en.wikipedia.org/wiki/%22Hello,_World!%22_program) to your terminal.
@@ -31,7 +31,7 @@ The first step is to create a text file called `hello_world.rb`. The `.rb` file 
 
 In the file `hello_world.rb` that you created, you need to write a single line of code that prints the string Hello World! to your terminal. Did you notice the method for printing in Ruby in another lab? It is short for "output string". It's the method `puts`. And remember how to make a string in Ruby? Just surround your text with `""`. 
 
-File: `hello_ruby.rb`
+File: `hello_world.rb`
 ```ruby
 puts "Hello World!"
 ```
@@ -54,6 +54,8 @@ Confirm everything is working by running the `learn` command.
 ### Step 5
 
 Add, Commit and Push your code to GitHub and open a pull request and this lab is done, but your adventure in Ruby has only just begun!
+
+### Hello World History
 
 ![Hello World! Art](https://d32dm0rphc51dk.cloudfront.net/b6JQ66-0nHij79irJT-Pdg/large.jpg)
 

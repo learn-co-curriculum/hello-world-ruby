@@ -26,6 +26,7 @@ File: `hello_world.rb`
 ```ruby
 puts "Hello World!"
 ```
+Make sure to save your file before moving on.
 
 ### Executing Your File
 

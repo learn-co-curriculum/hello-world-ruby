@@ -26,6 +26,7 @@ File: `hello_world.rb`
 ```ruby
 puts "Hello World!"
 ```
+Make sure to save your file before moving on.
 
 Anytime you make changes to a file, such as the one you've just made, you need to save it so these changes are preserved. If you forget to save it before you run your tests, it wil be tested against an empty document! Always remember to save it everytime you make changes by selecting Save from the File menu.
 

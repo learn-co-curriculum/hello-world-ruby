@@ -73,7 +73,8 @@ early programming language).
 
 ![Hello World! Art](https://d32dm0rphc51dk.cloudfront.net/b6JQ66-0nHij79irJT-Pdg/large.jpg)
 
-_[Hello World! by Brian Kernighan, from Artsy's Algorythm
-Auction](https://www.artsy.net/artwork/brian-kernighan-hello-world) based on a
-1974 Bell Laboratories internal memorandum by Brian Kernighan, _Programming in C:
-A Tutorial_, which contains the first known version.
+[Hello World! by Brian
+Kernighan](https://www.artsy.net/artwork/brian-kernighan-hello-world), from
+Artsy's Algorythm Auction. Based on a 1974 Bell Laboratories internal memorandum
+by Brian Kernighan, _Programming in C: A Tutorial_, which contains the first
+known version.
